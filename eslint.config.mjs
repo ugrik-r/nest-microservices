@@ -36,6 +36,7 @@ export default tseslint.config(
           endOfLine: 'auto',
         },
       ],
+      'no-console': ['warn'],
     },
   },
 );
